@@ -1,0 +1,9 @@
+{
+  "short_name": "tabOS",
+  "name": "tabOS",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
